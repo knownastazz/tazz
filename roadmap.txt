@@ -5,5 +5,7 @@ Array for all possible enemies / possible drops / health / damage / etc.
 
 Fighting system
 Various weapons / potions
-
+  Potion 1: Power up for damage
+  Potion 2: Extra health
+  Potion 3: 50% damage not taken from enemy 
 Each room has unique enemy, random drops with hard boss at the end.
