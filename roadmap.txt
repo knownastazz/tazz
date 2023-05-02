@@ -3,9 +3,16 @@ Array for all the rooms
 Array for all possible items / descriptions
 Array for all possible enemies / possible drops / health / damage / etc.
 
-Player starts with 200 health, sword that does
-
+Player starts with 200 health, sword with 2 attacks. Swing, and Swipe. 
 Fighting system
+
+Player has 2 attacks related to their weapon, and one custom ability. Default ability is meditate.
+
+Abilities:
+  Meditate. regain 25 percent of health.
+  Shield. Permenant +6% damage reduction
+  Thorns. +3% damage reflection.
+
 Various weapons / potions
   Potion 1: Power up for damage
   Potion 2: Extra health
