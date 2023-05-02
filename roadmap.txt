@@ -5,3 +5,5 @@ Array for all possible enemies / possible drops / health / damage / etc.
 
 Fighting system
 Various weapons / potions
+
+Each room has unique enemy, random drops with hard boss at the end.
