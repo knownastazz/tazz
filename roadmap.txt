@@ -3,6 +3,8 @@ Array for all the rooms
 Array for all possible items / descriptions
 Array for all possible enemies / possible drops / health / damage / etc.
 
+Player starts with 200 health, sword that does
+
 Fighting system
 Various weapons / potions
   Potion 1: Power up for damage
@@ -11,6 +13,12 @@ Various weapons / potions
   
 Each room has unique enemy, random drops with hard boss at the end.
   Room 1: NAV
+    Health: 150.
+    Attack 1: Bad intentions. 30 damage, gives nav 5 health back.
+    Attack 2: Emergency Tsunami. 25 damage, gives nav 5% damage reduction.
+    Attack 3: Good habits. Regain 25 health.
   Room 2: BabyTron
-  Room 3: 
+  Room 3: Mr. Simeonsen
+  Room 4: Walter White
+  Room 5: Tazim Rahman
 
