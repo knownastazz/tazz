@@ -18,7 +18,16 @@ Each room has unique enemy, random drops with hard boss at the end.
     Attack 2: Emergency Tsunami. 25 damage, gives nav 5% damage reduction.
     Attack 3: Good habits. Regain 25 health.
   Room 2: BabyTron
-  Room 3: Mr. Simeonsen
+  Room 3: Mr. Simonsen
+    Health: 250.
+    Attack 1: Grading on time. 50 damage, gives mr.simonsen 3% damage reduction
+    Attack 2: Lightsaber. 60 damage, no affects.
+    Attack 3: Dirt house. 6% damage reduction.
   Room 4: Walter White
+    Health: 300.
+    Attack 1: Red Phosphorus. 60 damage, gives walter white 25 health back.
+    Attack 2: Fulminate of Mercury. 50 damage, hurts both npc and player. walter white receives 10% damage reduction.
+    Attack 3: Crystal Math. Regains 20% of health by completing math equations with crystals. 
   Room 5: Tazim Rahman
+  
 
