@@ -1,5 +1,7 @@
 Array for inventory
 Array for all the rooms
 Array for all possible items / descriptions
+Array for all possible enemies / possible drops / health / damage / etc.
+
 Fighting system
 Various weapons / potions
