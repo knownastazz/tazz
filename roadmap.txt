@@ -8,4 +8,9 @@ Various weapons / potions
   Potion 1: Power up for damage
   Potion 2: Extra health
   Potion 3: 50% damage not taken from enemy 
+  
 Each room has unique enemy, random drops with hard boss at the end.
+  Room 1: NAV
+  Room 2: BabyTron
+  Room 3: 
+
