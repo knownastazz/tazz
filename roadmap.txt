@@ -58,6 +58,7 @@ Each room has unique enemy, random drops with hard boss at the end.
       50% chance of health potion
       50% chance of damage potion
       50% chance of damage reduction potion
+      100% chance of Keyboard
       
   Room 3: Walter White
     Health: 300.
@@ -69,10 +70,11 @@ Each room has unique enemy, random drops with hard boss at the end.
       75% chance of health potion
       75% chance of damage potion
       75% chance of damage reduction potion
+      100% chance of Boiling Flask
       
 
   Room 4: Tazim Rahman
-    Health: 700.
+    Health: 400.
     Attack 1: Spill soda cup. 100 damage
     Attack 2: BMW. Regain 25 health, Deal 75 damage.
     Attack 3: Ramadan. Gains 10% damage reduction.
