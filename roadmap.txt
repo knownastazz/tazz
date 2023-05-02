@@ -1,1 +1,5 @@
-i love brown people
+Array for inventory
+Array for all the rooms
+Array for all possible items / descriptions
+Fighting system
+Various weapons / potions
