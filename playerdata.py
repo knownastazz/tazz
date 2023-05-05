@@ -1,17 +1,24 @@
 data = {
 
-    "Rooms Beat" : [False, False, False, False],
+    "Rooms Beat" : [False, False, False, False, False],
 
-    "Inventory" : [
+    "Weapons" : [
         "Sword",
     ],
 
-    "Consumables" : [
-        ["Damage Potion", 0],
-        ["Health Potion", 0],
-        ["Damage Resistance Potion", 0]
+    "Abilities" : [
+        "Meditate",
     ],
 
-    "weapon" : "Sword"
+    "Consumables" : [
+        ["Damage Potion", 1],
+        ["Health Potion", 1],
+        ["Damage Resistance Potion", 1],
+        ["GOLDEN APPLE", 0],
+    ],
+
+    "weapon" : "Sword",
+
+    "ability" : "Meditate"
 
 }
